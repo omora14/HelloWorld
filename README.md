@@ -16,7 +16,7 @@ Instructions for using the software:
 
 1. Run the program with the command:
    ```bash
-   python hello.py
+   python HelloWorld.py
    ```
    OR
 
